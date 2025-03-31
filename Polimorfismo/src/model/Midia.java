@@ -67,7 +67,7 @@ public class Midia {
 
     }
     public void print(){
-        System.out.println("Codigo: " + codigo);
+        System.out.println("Codigo : " + codigo);
         System.out.println("Preco: " + preco);
         System.out.println("Nome: " + nome);
     }
